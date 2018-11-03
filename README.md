@@ -1,5 +1,7 @@
 # **Primor**
 ## Worldwide Products to Your Doorstep, instantly! ##
+### What is Primor? ###
+A platform that connects Buyers and Shippers worldwide. Our service brings products from all around the world to your doorsteps at any time you wish!
 
 ## **The Process** ##
 ### As a Shipper: ###
@@ -23,3 +25,6 @@ We understand our customers’ struggle whenever they want to buy any product in
 
 ### How it works? ###
 We create a simple yet convenient platform to connect the buyer to any traveler who can pick up and deliver the package from the local country to the buyer’s doorstep on the chosen time. With our platform, a Shipper can create a trip with start and end date, wait for us to match the available orders, then they can make a deal with any matched Buyer they want. Similarly, a Buyer can post the order and pick the delivery time, and we will match that order to a suitable Shipper. The Shipper can earn a considerable amount of money on their trip, and the Buyer can find someone who can bring them goods back surely and safely on time. Everybody Is happy!
+
+### What's Next for Primor: Worldwide Product to Your Doorstep, Instantly! ###
+The project is probably the most ambitious project we ever have until now. We will further improve every function until we can achieve the flawless website layout, as well as a secure, yet speedy platform supported by the Stripe API payment processor, and Heroku Cloud Platform.
