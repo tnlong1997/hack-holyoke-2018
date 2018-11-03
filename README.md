@@ -19,6 +19,7 @@
 A platform that connects Buyers and Shippers worldwide. Our service brings products from all around the world to your doorsteps at any time you wish!
 
 ### Why do we create Primor? ###
+We understand our customers’ struggle whenever they want to buy any product in the US from their countries – the shipping time and the expensive cost are what keep them awake every night! The traditional way to buy merchandises from another country is to order the items on the website, pay the charge of shipment, and then you wait for the package to arrive. If you choose standard shipping, you will have to wait for, typically, three or four weeks. If you choose fast shipping, you will have to pay a lot of charges! These dilemmas are our motives to come up with the solution to ease the process of online shopping so that everyone can purchase goods from the highest quality retailers worldwide.
 
-
-### Who will be Primor's users?
+### How it works? ###
+We create a simple yet convenient platform to connect the buyer to any traveler who can pick up and deliver the package from the local country to the buyer’s doorstep on the chosen time. With our platform, a Shipper can create a trip with start and end date, wait for us to match the available orders, then they can make a deal with any matched Buyer they want. Similarly, a Buyer can post the order and pick the delivery time, and we will match that order to a suitable Shipper. The Shipper can earn a considerable amount of money on their trip, and the Buyer can find someone who can bring them goods back surely and safely on time. Everybody Is happy!
